@@ -16,7 +16,7 @@ assignees: ''
 * [ ] This issue is not related to rolling up `@types`.
   *The plugin ignores these by default, unless `respectExternal` is set. `@types` can contain hand-crafted code which is known to cause issues.*
 
-### Code Snipped
+### Code Snippet
 
 ```ts
 // Your code that is causing problems.
